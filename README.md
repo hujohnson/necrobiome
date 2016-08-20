@@ -2,7 +2,7 @@
 
 These materials are supplementary to the paper _A Computational Framework for Using the Postmortem Skin Microbiome to Estimate the Postmortem Interval_ by Hunter Johnson, Donovan Trinidad, Stephania Guzman, Zenab Khan, James Parziale, Jennifer DeBruyn, and Nathan Lents.  That paper provides detailed information about the project from which these data and code originate.  
 
-Very briefly, this code performs regression analysis on data which relate to changes in the necrobiome human cadavers, with the aim of determining the post-mortem interval of a cadaver from the necrobiome found in the nose and ear.
+Very briefly, this code performs regression analysis on data which relate to changes in the necrobiome of human cadavers, with the aim of determining the post-mortem interval of a cadaver from the necrobiome found in the nose and ear.
 
 Included in this repository are the following directories:
 
